@@ -53,4 +53,6 @@
 > ## **Co-authors:**
 >[@OLYAPET](https://github.com/OLYAPET) [@lianob](https://github.com/lianob)
 
+Hold it on Patreon:
+[Tap](https://patreon.com/Ruvirm?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 

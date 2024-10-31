@@ -1,5 +1,5 @@
 >[!NOTE]
->[Читать на русском](https://github.com/YaroslavPe1/YaroslavPe1/blob/main/READMERUS.md)
+>[Читать на русском](https://github.com/Ruvirm/Ruvirm/blob/main/READMERUS.md)
 
 # _Hello, I am Ruvirm_
 

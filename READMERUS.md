@@ -1,5 +1,5 @@
 >[!NOTE]
->[Read in English](https://github.com/YaroslavPe1/YaroslavPe1/blob/main/README.md)
+>[Read in English](https://github.com/Ruvirm/Ruvirm/blob/main/README.md)
 
 # _Привет я Ruvirm_
 

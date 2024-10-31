@@ -1,7 +1,7 @@
 >[!NOTE]
 >[Read in English](https://github.com/YaroslavPe1/YaroslavPe1/blob/main/README.md)
 
-# _Привет я YaroslavPe1_
+# _Привет я Ruvirm_
 
 >[!NOTE]
 >## **С чем я работаю:**

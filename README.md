@@ -19,7 +19,7 @@
 >![icon](/icon/icon128.png)
 >
 >
-> [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
+> [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=red)](https://github.com/YaroslavPe1/Rylang-RVM)
 
 >[!NOTE]
 > ## **Plans:** 

@@ -25,7 +25,7 @@
 > ## **Plans:** 
 > - [X] Create a fully functional virtual machine.
 > - [ ] Build a community on YouTube.
-> - [ ] Develop a toolkit for Ryslang development.
+> - [X] Develop a toolkit for Ryslang development.
 > - [ ] Create documentation for developers.
 >
 > 

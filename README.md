@@ -2,7 +2,7 @@
 
 # _Hello, I’m Ruvirm_
 
-## [Read in Russian](https://github.com/Ruvirm/Ruvirm/blob/main/README.md)
+## [Читать на русском](https://github.com/Ruvirm/Ruvirm/blob/main/READMERUS.md)
 
 ---
 

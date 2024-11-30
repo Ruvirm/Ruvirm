@@ -25,7 +25,7 @@
 
 ## **Мои основные проекты**
 
-### ![иконка](/icon/SaturnOS.png) **SaturnOS**
+### ![иконка](/icon/SaturnOS.png)
 
 [![SaturnOS](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
 
@@ -50,7 +50,7 @@
 
 ---
 
-### ![иконка](/icon/icon128.png) **Rylang-RVM**
+### ![иконка](/icon/icon128.png)
 
 [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
 
@@ -71,8 +71,7 @@
 - Кроссплатформенность.
 - Создание профессиональной среды разработки со всеми необходимыми инструментами.
 
-> [!CAUTION]  
-> **Внимание:**  
+> [!CAUTION]    
 > Проект RVM находится в нестабильном состоянии.  
 > Версии, выпущенные до первой LTS, не являются рабочими и стабильными. Используйте их на свой страх и риск.  
 > Beta-версии могут быть нестабильны. Для стабильной работы рекомендуется использовать только LTS-версии.

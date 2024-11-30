@@ -1,74 +1,93 @@
->[!NOTE]
->[Read in English](https://github.com/Ruvirm/Ruvirm/blob/main/README.md)
+Вот исправленный текст с улучшенной структурой и исправленными ошибками:
 
-# _Привет я Ruvirm_
+---
 
->[!NOTE]
->## **С чем я работаю:**
->
->![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
->![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
->![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
->![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
->![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
->![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
->![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
->![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
->![Cosmos](https://img.shields.io/badge/Cosmos-%23478CFF.svg?style=flat&logo=dotnet&logoColor=white)  
->![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=probot&logoColor=black)
+# _Привет, я Ruvirm_
 
->## **Мои основные проекты:**
->
->![иконка](/icon/SaturnOS.png)
->
->
->
->
->
->
->
->
->
->
->
->
->![иконка](/icon/icon128.png)
->
->
-> [![  Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
+## [Read in English](https://github.com/Ruvirm/Ruvirm/blob/main/README.md)
 
+---
 
->[!NOTE]
-> ## **Планы:** 
-> - [X] Сделать полностью рабочую виртуальную машину.
-> - [ ] Сформировать комьюнити на YouTube.
-> - [X] Сделать инструментарий для разработки на языке Ryslang.
-> - [ ] Составить документацию для разработчика.
->
-> 
->
+## **С чем я работаю**
 
->[!NOTE]
-> ## **Цели:**
-> - Обеспечить максимальную скорость разработки программ;
-> - Изменить принцип программирования;
-> - Сделать разработку языков простой;
-> - Поддержка библиотек из C++ и Java;
-> - Сделать отладку кода ещё удобней;
-> - Кроссплатформенность;
-> - Профессиональная среда разработки со всем необходимым.
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![Cosmos](https://img.shields.io/badge/Cosmos-%23478CFF.svg?style=flat&logo=dotnet&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=probot&logoColor=black)
 
+---
 
-> [!CAUTION]
-> 
-> Проект RVM не в стабильном состоянии, все версии, выложенные до первой LTS, не являются рабочими и стабильными, используйте на свой страх и риск.
-> 
-> Beta-версии могут быть нестабильны, учтите при установке.
-> 
-> Используйте LTS-версии для стабильности.
+## **Мои основные проекты**
 
->[!NOTE]
-> ## **Соавторы:**
->[@OLYAPET](https://github.com/OLYAPET) [@lianob](https://github.com/lianob)
+### ![иконка](/icon/SaturnOS.png) **SaturnOS**
 
+[![SaturnOS](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
 
+Простая операционная система с собственным ядром.
+
+---
+
+### **Планы:**
+- [ ] Создать первую версию ядра.
+- [ ] Реализовать простую оболочку.
+- [ ] Разработать API для работы с системой.
+- [ ] Подготовить документацию для пользователей.
+
+### **Цели:**
+- Максимальная простота использования.
+- Изменение принципов программирования.
+- Классический дизайн в стиле Windows 95.
+- Поддержка приложений Windows NT.
+- Гибкая и удобная настройка системы.
+- Наличие драйверов "из коробки".
+- Богатый набор стандартных приложений.
+
+---
+
+### ![иконка](/icon/icon128.png) **Rylang-RVM**
+
+[![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
+
+---
+
+### **Планы:**
+- [X] Разработать полностью функциональную виртуальную машину.
+- [ ] Создать сообщество разработчиков на YouTube.
+- [X] Реализовать инструментарий для разработки на языке Rylang.
+- [ ] Написать документацию для разработчиков.
+
+### **Цели:**
+- Максимально ускорить разработку программ.
+- Упростить принципы программирования.
+- Сделать разработку языков доступной и удобной.
+- Поддержка библиотек на C++ и Java.
+- Удобная отладка кода.
+- Кроссплатформенность.
+- Создание профессиональной среды разработки со всеми необходимыми инструментами.
+
+> [!CAUTION]  
+> **Внимание:**  
+> Проект RVM находится в нестабильном состоянии.  
+> Версии, выпущенные до первой LTS, не являются рабочими и стабильными. Используйте их на свой страх и риск.  
+> Beta-версии могут быть нестабильны. Для стабильной работы рекомендуется использовать только LTS-версии.
+
+---
+
+## **Соавторы**
+
+- [@OLYAPET](https://github.com/OLYAPET)  
+- [@lianob](https://github.com/lianob)
+
+---
+
+### **Изменения и улучшения:**
+- Выправлены грамматические и пунктуационные ошибки.
+- Добавлена структурированность текста.
+- Упрощено восприятие списков и описаний.
+- Уточнены некоторые формулировки.

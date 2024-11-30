@@ -17,7 +17,19 @@
 >![Cosmos](https://img.shields.io/badge/Cosmos-%23478CFF.svg?style=flat&logo=dotnet&logoColor=white)  
 >![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=probot&logoColor=black)
 
->## **Мой основной проект:**
+>## **Мои основные проекты:**
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 >
 >![иконка](/icon/icon128.png)
 >

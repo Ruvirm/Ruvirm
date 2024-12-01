@@ -25,9 +25,9 @@
 
 ## **Мои основные проекты**
 
-### <img src="/icon/SaturnOS.png" alt="icon" width="128">
+### <img src="/icon/logOs.png" alt="icon" width="128">
 
-[![SaturnOS](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
+[![logOs](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
 
 Простая операционная система с собственным ядром.
 

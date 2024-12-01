@@ -23,7 +23,7 @@
 
 ## **My Main Projects**
 
-### <img src="/icon/SaturnOS.png" alt="icon" width="50">
+### <img src="/icon/SaturnOS.png" alt="icon" width="128">
 
 [![SaturnOS](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
 

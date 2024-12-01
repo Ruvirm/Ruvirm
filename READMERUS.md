@@ -27,7 +27,7 @@
 
 ### <img src="/icon/logOs.png" alt="icon" width="128">
 
-[![logOs](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/SaturnOs)
+[![logOs](https://img.shields.io/badge/SaturnOS-black?style=flat&logo=github&logoColor=white)](https://github.com/Ruvirm/logOs)
 
 Простая операционная система с собственным ядром.
 

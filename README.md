@@ -83,9 +83,3 @@ A simple operating system with its own kernel.
 - [@lianob](https://github.com/lianob)
 
 ---
-
-### **Changes and Improvements:**
-- Grammar and punctuation errors were corrected.
-- Text structure was improved for clarity.
-- Lists and descriptions were made more readable.
-- Certain phrases were refined for better understanding.
